@@ -28,7 +28,7 @@ canvas.create_oval(280, 240, 295, 255, fill="black")
 # Nose
 canvas.create_oval(240, 270, 260, 290, fill="black")
 
-# Smile (matches screenshot)
+# Smile
 canvas.create_arc(220, 300, 280, 350, start=0, extent=-180, style=tk.ARC, width=2)
 
 # Tongue
